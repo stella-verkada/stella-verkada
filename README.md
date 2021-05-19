@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @stella-verkada
+- 👀 I’m a data science and analytics manager at Verkada in San Mateo, CA
+- 📫 You can reach me at stella.zhang@verkada.com
